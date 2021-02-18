@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=66cce713_002D4d42_002D4c0e_002D9edb_002D6dcbff11fcf3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Regulate_TempOverThreshold_HeaterOff" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6AA3B7A3-9853-4759-B42B-B170E8F4D2A0::.NETCoreApp,Version=v3.1::ECSLegacy.Test.Unit.Tests.Regulate_TempOverThreshold_HeaterOff&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=988bfbfb_002D09ef_002D4ccd_002D9f89_002D07ff3cf4d18c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Regulate_TempOverThreshold_HeaterOff #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6AA3B7A3-9853-4759-B42B-B170E8F4D2A0::.NETCoreApp,Version=v3.1::ECSLegacy.Test.Unit.Tests.Regulate_TempOverThreshold_HeaterOff&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6AA3B7A3-9853-4759-B42B-B170E8F4D2A0::.NETCoreApp,Version=v3.1::ECSLegacy.Test.Unit.Tests.Regulate_TempunderThreshold_HeaterOn&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
