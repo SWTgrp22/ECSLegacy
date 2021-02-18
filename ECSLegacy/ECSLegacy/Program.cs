@@ -18,6 +18,9 @@ namespace ECSLegacy
 
             ecs.Regulate();
 
+            //Hej Ditte
+
+
         }
     }
 }
