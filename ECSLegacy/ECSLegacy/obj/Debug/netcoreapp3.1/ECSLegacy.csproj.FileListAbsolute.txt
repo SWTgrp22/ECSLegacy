@@ -11,3 +11,16 @@ C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\
 C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ECSLegacy\ECSLegacy\obj\Debug\netcoreapp3.1\ECSLegacy.dll
 C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ECSLegacy\ECSLegacy\obj\Debug\netcoreapp3.1\ECSLegacy.pdb
 C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ECSLegacy\ECSLegacy\obj\Debug\netcoreapp3.1\ECSLegacy.genruntimeconfig.cache
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\bin\Debug\netcoreapp3.1\ECSLegacy.exe
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\bin\Debug\netcoreapp3.1\ECSLegacy.deps.json
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\bin\Debug\netcoreapp3.1\ECSLegacy.runtimeconfig.json
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\bin\Debug\netcoreapp3.1\ECSLegacy.runtimeconfig.dev.json
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\bin\Debug\netcoreapp3.1\ECSLegacy.dll
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\bin\Debug\netcoreapp3.1\ECSLegacy.pdb
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\obj\Debug\netcoreapp3.1\ECSLegacy.csprojAssemblyReference.cache
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\obj\Debug\netcoreapp3.1\ECSLegacy.AssemblyInfoInputs.cache
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\obj\Debug\netcoreapp3.1\ECSLegacy.AssemblyInfo.cs
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\obj\Debug\netcoreapp3.1\ECSLegacy.csproj.CoreCompileInputs.cache
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\obj\Debug\netcoreapp3.1\ECSLegacy.dll
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\obj\Debug\netcoreapp3.1\ECSLegacy.pdb
+C:\Users\freja\OneDrive - Aarhus Universitet\Sundhedsteknologi\SW Test\L3.1-3.2\ny\ECSLegacy\ECSLegacy\obj\Debug\netcoreapp3.1\ECSLegacy.genruntimeconfig.cache
