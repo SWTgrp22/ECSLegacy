@@ -8,7 +8,7 @@ namespace ECSLegacy
         {
             ITempSensor tempSensor = new TempSensor();
             IHeater heater = new Heater();
-
+            //Tester
             var ecs = new ECS(28, tempSensor,heater);
 
             ecs.Regulate();
