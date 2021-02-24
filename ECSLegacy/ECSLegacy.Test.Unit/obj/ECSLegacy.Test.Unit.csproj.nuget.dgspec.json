@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\freja\\OneDrive - Aarhus Universitet\\Sundhedsteknologi\\SW Test\\L3.1-3.2\\ny\\ECSLegacy\\ECSLegacy.Test.Unit\\ECSLegacy.Test.Unit.csproj": {}
+    "C:\\Users\\Ditte\\Documents\\GitHub\\ECSLegacy\\ECSLegacy\\ECSLegacy.Test.Unit\\ECSLegacy.Test.Unit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\freja\\OneDrive - Aarhus Universitet\\Sundhedsteknologi\\SW Test\\L3.1-3.2\\ny\\ECSLegacy\\ECSLegacy.Test.Unit\\ECSLegacy.Test.Unit.csproj": {
+    "C:\\Users\\Ditte\\Documents\\GitHub\\ECSLegacy\\ECSLegacy\\ECSLegacy.Test.Unit\\ECSLegacy.Test.Unit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\freja\\OneDrive - Aarhus Universitet\\Sundhedsteknologi\\SW Test\\L3.1-3.2\\ny\\ECSLegacy\\ECSLegacy.Test.Unit\\ECSLegacy.Test.Unit.csproj",
+        "projectUniqueName": "C:\\Users\\Ditte\\Documents\\GitHub\\ECSLegacy\\ECSLegacy\\ECSLegacy.Test.Unit\\ECSLegacy.Test.Unit.csproj",
         "projectName": "ECSLegacy.Test.Unit",
-        "projectPath": "C:\\Users\\freja\\OneDrive - Aarhus Universitet\\Sundhedsteknologi\\SW Test\\L3.1-3.2\\ny\\ECSLegacy\\ECSLegacy.Test.Unit\\ECSLegacy.Test.Unit.csproj",
-        "packagesPath": "C:\\Users\\freja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\freja\\OneDrive - Aarhus Universitet\\Sundhedsteknologi\\SW Test\\L3.1-3.2\\ny\\ECSLegacy\\ECSLegacy.Test.Unit\\obj\\",
+        "projectPath": "C:\\Users\\Ditte\\Documents\\GitHub\\ECSLegacy\\ECSLegacy\\ECSLegacy.Test.Unit\\ECSLegacy.Test.Unit.csproj",
+        "packagesPath": "C:\\Users\\Ditte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ditte\\Documents\\GitHub\\ECSLegacy\\ECSLegacy\\ECSLegacy.Test.Unit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\freja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ditte\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\freja\\OneDrive - Aarhus Universitet\\Sundhedsteknologi\\SW Test\\L3.1-3.2\\ny\\ECSLegacy\\ECSLegacy\\ECSLegacy.csproj": {
-                "projectPath": "C:\\Users\\freja\\OneDrive - Aarhus Universitet\\Sundhedsteknologi\\SW Test\\L3.1-3.2\\ny\\ECSLegacy\\ECSLegacy\\ECSLegacy.csproj"
+              "C:\\Users\\Ditte\\Documents\\GitHub\\ECSLegacy\\ECSLegacy\\ECSLegacy\\ECSLegacy.csproj": {
+                "projectPath": "C:\\Users\\Ditte\\Documents\\GitHub\\ECSLegacy\\ECSLegacy\\ECSLegacy\\ECSLegacy.csproj"
               }
             }
           }
@@ -49,7 +49,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.9.0-preview-20210127-04, )"
+              "version": "[16.9.1, )"
             },
             "NUnit": {
               "target": "Package",
@@ -83,20 +83,20 @@
         }
       }
     },
-    "C:\\Users\\freja\\OneDrive - Aarhus Universitet\\Sundhedsteknologi\\SW Test\\L3.1-3.2\\ny\\ECSLegacy\\ECSLegacy\\ECSLegacy.csproj": {
+    "C:\\Users\\Ditte\\Documents\\GitHub\\ECSLegacy\\ECSLegacy\\ECSLegacy\\ECSLegacy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\freja\\OneDrive - Aarhus Universitet\\Sundhedsteknologi\\SW Test\\L3.1-3.2\\ny\\ECSLegacy\\ECSLegacy\\ECSLegacy.csproj",
+        "projectUniqueName": "C:\\Users\\Ditte\\Documents\\GitHub\\ECSLegacy\\ECSLegacy\\ECSLegacy\\ECSLegacy.csproj",
         "projectName": "ECSLegacy",
-        "projectPath": "C:\\Users\\freja\\OneDrive - Aarhus Universitet\\Sundhedsteknologi\\SW Test\\L3.1-3.2\\ny\\ECSLegacy\\ECSLegacy\\ECSLegacy.csproj",
-        "packagesPath": "C:\\Users\\freja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\freja\\OneDrive - Aarhus Universitet\\Sundhedsteknologi\\SW Test\\L3.1-3.2\\ny\\ECSLegacy\\ECSLegacy\\obj\\",
+        "projectPath": "C:\\Users\\Ditte\\Documents\\GitHub\\ECSLegacy\\ECSLegacy\\ECSLegacy\\ECSLegacy.csproj",
+        "packagesPath": "C:\\Users\\Ditte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ditte\\Documents\\GitHub\\ECSLegacy\\ECSLegacy\\ECSLegacy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\freja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ditte\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
